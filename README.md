@@ -1,7 +1,7 @@
 {
-    "EngineAssociation": "5.3",
-    "Category": "Animation",
-    "Description": "Collection of techniques for driving locomotion animations",
+    "Get": 202,
+    "EnBpak": 1,
+    "DocsURL": "",
     "Modules": [
         {
             "Type": "Runtime",
@@ -10,6 +10,18 @@
             ]
         }
     ],
+    "Category": "Animation",
+    "Installed": false,
+    "SupportURL": "",
+    "Description": "Collection of techniques for driving locomotion animations",
+    "CreatedByURL": "https://epicgames.com",
+    "FriendlyName": "Animation Locomotion Library",
+    "pakVAs": 409968000,
+    "IsBetaVersion": true,
+    "MarketplaceURL": "",
+    "Pak1": 1,
+    "pakTY": 1,
+    "pakEJ": 1907658507,
     "TargetPlatforms": [
         "Android",
         "PS4",
@@ -21,16 +33,9 @@
         "XSX",
         "HoloLens"
     ],
-    "Get": 202,
-    "EnBpak": 1,
-    "FriendlyName": "Animation Locomotion Library",
-    "CreatedByURL": "https://epicgames.com",
-    "DocsURL": "",
-    "MarketplaceURL": "",
-    "SupportURL": "",
     "EnabledByDefault": false,
     "CanContainContent": true,
-    "IsBetaVersion": true,
-    "IsExperimentalVersion": false,
-    "Installed": false
+    "pakCJ": 1749891521,
+    "EngineAssociation": "5.3",
+    "IsExperimentalVersion": false
 }
